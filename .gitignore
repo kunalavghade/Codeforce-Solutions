@@ -2,3 +2,5 @@
 code.cpp
 code.exe
 a.out
+code.dSYM/
+*code*
