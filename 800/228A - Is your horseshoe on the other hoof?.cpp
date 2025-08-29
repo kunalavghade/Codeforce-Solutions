@@ -2,17 +2,13 @@
 using namespace std;    
 
 void solve() {
-    int n, t;
-    cin >> n;
-    int portions = 0, total = 0;
-
+    int n = 4, t;
+    set<int> s;
     while(n--) {
         cin >> t;
-        portions += t;
-        total += 100;
+        s.insert(t);
     }
-    double ans = (double)portions / total * 100;
-    cout<< fixed << setprecision(12) << ans << "\n";
+   cout << 4 - s.size() << "\n";
 }
 
 int main() {
