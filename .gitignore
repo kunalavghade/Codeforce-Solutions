@@ -4,3 +4,4 @@ code.exe
 a.out
 code.dSYM/
 *code*
+.DS_Store
