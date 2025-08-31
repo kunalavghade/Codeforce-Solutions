@@ -4,6 +4,7 @@
         "unordered_map": "cpp",
         "tuple": "cpp",
         "iostream": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "string": "cpp"
     }
 }
