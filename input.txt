@@ -1,5 +1,1 @@
-4
-abbaac
-ac
-bccddaaf
-zzzzzzzzzz
+4 2
