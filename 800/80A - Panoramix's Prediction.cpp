@@ -1,16 +1,14 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-bool primes[51] = {true};
+bool primes[51];
 
 void calcPrimes() {
-    for(int i = 0; i <= 50; i++) {
-        primes[i] = true;
-    }
+    fill(begin(primes), end(primes), true);
     primes[0] = primes[1] = false;
-    for(int i = 2; i <= 50; i++){
+    for(int i = 2; i * i <= 50; ++i) {
         if(primes[i]) {
-            for(int j = i*i; j <= 50; j+=i) {
+            for(int j = i * i; j <= 50; j += i) {
                 primes[j] = false;
             }
         }
