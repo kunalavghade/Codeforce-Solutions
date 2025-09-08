@@ -1,9 +1,21 @@
+10
+5
+Timur
+5
+miurT
+5
+Trumi
+5
+mriTu
+5
+timur
 4
-4
-3 2 7 6
-3
-3 2 6
-1
-7
-7
-4 9 2 1 18 3 0
+Timr
+6
+Timuur
+10
+codeforces
+10
+TimurTimur
+5
+TIMUR
