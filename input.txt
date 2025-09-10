@@ -1,11 +1,6 @@
-10
-a
-aa
-aaa
-aaaa
-abab
-abcabc
-abacaba
-xxyy
-xyyx
-xyxy
+5
+23 55
+23 0
+0 1
+4 20
+23 59
