@@ -1,13 +1,8 @@
-5
-3
-ABA
-11
-DDBBCCCBBEZ
-7
-FFGZZZY
-1
-Z
-2
-AB
+4
+4+2
+0+0
+3+7
+8+9
+
 
 
