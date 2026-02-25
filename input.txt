@@ -1,7 +1,16 @@
+7
+6
+aaabcc
+10
+aaaaaaaaaa
+6
+abcdef
+7
+abacaba
+6
+cccfff
 4
-1 4
-2 5
-3 6
-4 7
-
+abba
+5
+ababa
 
